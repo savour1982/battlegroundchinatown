@@ -1,0 +1,42 @@
+  body {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.cn-splash {
+    background-image: url("../img/bg-chinatown.jpg");
+    background-color: #cccccc;
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    color: #ffffff;
+    margin-bottom: 10px;
+  }
+
+  .cn-splash h1 {
+    font-size: 48px;
+    margin-bottom: 5px;
+  }
+
+   .spacer-container .row .span4 {
+    margin-bottom: 25px;
+  }
+
+
+ @media (max-width: 767px) {
+  .spacer-container {
+     padding-left: 10px;
+     padding-right: 10px;
+  }
+}
+
+footer {
+  margin-left: 10px;
+  /* margin-top: 10px; */
+}
+
+
+  
