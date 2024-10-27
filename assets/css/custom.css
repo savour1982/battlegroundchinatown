@@ -38,12 +38,8 @@ body {
     border-color: #ffffff;
     border-style: double;
     border-width: thick;
-  }
-
-  .inner-strip {
-    display: flex;
-    flex-wrap: nowrap;
-    position: relative;
+    /* width: 50%;
+    height: 50%; */
   }
 
  @media (max-width: 767px) {
