@@ -13,7 +13,7 @@ body {
     -webkit-border-radius: 0px;
     border-radius: 0px;
     color: #ffffff;
-    margin-bottom: -15px;
+    margin-bottom: -5px;
   }
 
   .cn-splash h1 {
@@ -37,9 +37,22 @@ body {
   .swipe-gallery img {
     border-color: #ffffff;
     border-style: double;
-    border-width: thick;
-    /* width: 50%;
-    height: 50%; */
+    border-width: thin;
+  }
+
+  #cta-play {
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+
+  #s4m-label {
+    position: absolute  ;
+    color: #ffffff;
+    margin-left: 15px;
+    margin-top: 15px;
   }
 
  @media (max-width: 767px) {
